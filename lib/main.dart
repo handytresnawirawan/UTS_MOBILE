@@ -62,8 +62,8 @@ class _MyHomePageState extends State<MyHomePage> {
               title: Text('Pemesanan')
           ),
           BottomNavigationBarItem(
-              icon: Icon(Icons.email),
-              title: Text('Inbox')
+              icon: Icon(Icons.settings_overscan),
+              title: Text('scan QR')
           ),
           BottomNavigationBarItem(
               icon: Icon(Icons.account_circle),
